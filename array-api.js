@@ -46,6 +46,7 @@ const students = [
 
 // Q5. find a student with the score 90
 {
+  const result = students.find();
 }
 
 // Q6. make an array of enrolled students
