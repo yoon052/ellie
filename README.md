@@ -1,4 +1,4 @@
-# ellie
+# JavaScript Code Lab
 
 <br>
 
